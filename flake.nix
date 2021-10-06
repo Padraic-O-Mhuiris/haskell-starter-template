@@ -18,7 +18,7 @@
                 ghcid = { };
                 haskell-language-server = { };
                 hlint = { };
-                brittany = { };
+                ormolu = { };
               };
             };
           };
